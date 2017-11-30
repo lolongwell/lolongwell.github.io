@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/11/30/myblog/</loc>
+    <lastmod>2017-11-30T06:08:59.112Z</lastmod>
+    <data>
+        <display>
+        <title>我的博客</title>
+        <pubTime>2017-11-30T06:34:20.411Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/11/30/hello-world/</loc>
+    <lastmod>2017-11-30T04:01:55.750Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-11-30T06:34:20.411Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
